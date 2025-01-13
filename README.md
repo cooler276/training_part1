@@ -6,7 +6,7 @@
 :scroll: C言語基礎
 
 # 内容
-　wiki参照
+　[wiki](https://github.com/cooler276/training_part1/wiki)参照
 
 # 使用するもの
 :strawberry:[raspberry-pi-pico-2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
